@@ -20,7 +20,7 @@
 Разработана система, способная проанализировать поведение клиентов и предложить пользователям новый тариф.</i>
 
 ## Данные и выводы
-<i>В итоге были рассмотрены такие модели как `DecisionTreeClassifier`, `RandomForestClassifier`, `Logistic Regression`, а посчитаны их `Accuracy`. Лучшей моделью оказалась `RandomForestClassifier` с результатом `Accuracy`=0.82. Проверенная на тестовой выборке модель, прошла проверку на адекватность, для сравнения была выбрана модель `DummyClassifier`. с</i>
+<i>В итоге были рассмотрены такие модели как `DecisionTreeClassifier`, `RandomForestClassifier`, `Logistic Regression`, а посчитаны их `Accuracy`. Лучшей моделью оказалась `RandomForestClassifier` с результатом `Accuracy`=0.82. Проверенная на тестовой выборке модель, прошла проверку на адекватность, для сравнения была выбрана модель `DummyClassifier`.</i>
 
 ---
 
