@@ -29,7 +29,8 @@
 2) Обучение моделей.
 - Обучили несколько моделей, включая **`LogisticRegression`**, **`RandomForestClassifier`** и **`CatBoostClassifier`**.
 - При оценки качества моделей использовали метрику **`ROC-AUC`** на кросс-валидации и на тестовой выборке.
-| Модель | ROC-AUC |
+
+            | Модель | ROC-AUC |
 |--------|---------|
 | LogisticRegression | 0.714 | 
 | RandomForestClassifier | 0.817 |
@@ -85,6 +86,6 @@
 
 ---
 
-#### Если проект не открывается, его можно просмотреть по ссылке: <a href='https://nbviewer.org/github/Ptolemey98/YP_Projects/blob/main/telecom/Final_telecom.ipynb'>telecoms</a>
+#### Если проект не открывается, его можно просмотреть по ссылке: <a href='https://nbviewer.org/github/Ptolemey98/YP_Projects/blob/main/telecom/Final_telecom.ipynb'>telecom</a>
 
 
