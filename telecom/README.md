@@ -30,7 +30,7 @@
 - Обучили несколько моделей, включая **`LogisticRegression`**, **`RandomForestClassifier`** и **`CatBoostClassifier`**.
 - При оценки качества моделей использовали метрику **`ROC-AUC`** на кросс-валидации и на тестовой выборке.
 
-            | Модель | ROC-AUC |
+| Модель | ROC-AUC |
 |--------|---------|
 | LogisticRegression | 0.714 | 
 | RandomForestClassifier | 0.817 |
